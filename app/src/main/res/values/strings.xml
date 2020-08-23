@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Massas da Mama</string>
+    <string name="cadastrar">cadastrar</string>
+    <string name="senha">senha</string>
+    <string name="login">login</string>
+    <string name="telefone">telefone</string>
+    <string name="email">email</string>
+    <string name="nome">nome</string>
+    <string name="entrar">entrar</string>
+</resources>
